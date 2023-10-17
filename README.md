@@ -58,4 +58,5 @@ This project is mainly useful for analyzing or comparing YouTube channels with t
 ## Demo video
 
 [CLICK HERE](https://drive.google.com/file/d/1wGrr-b3_zGd3ualZtgMJIB_3m1QsvXk1/view?usp=drive_link)
+[Linkedin Demo video](https://www.linkedin.com/posts/shiva-prasaath-k-c_my-project-is-named-youtube-data-harvesting-activity-7120119143839780864-Q8Y9?utm_source=share&utm_medium=member_desktop)
 
